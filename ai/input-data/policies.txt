@@ -1,0 +1,45 @@
+# HR Leave Policy (India)
+Casual Leave (CL): Employees are entitled to 15 days of casual leave per calendar year. Unused CL does not carry forward.
+Earned Leave (EL): 18 days per calendar year. EL can carry forward up to a maximum of 45 days.
+Sick Leave (SL): 12 days per year. A medical certificate is required for absences of 3 days or more.
+Maternity Leave: 26 weeks as per applicable law. Additional benefits may apply per HR approval.
+Paternity Leave: 10 days within 3 months from the child’s birth.
+Public Holidays: As per the annually published holiday list for the employee’s location.
+
+# Work From Home (WFH) Policy
+WFH Eligibility: Employees may request WFH for up to 3 days per week with manager approval.
+Core Hours: 10:00–17:00 local time; employees are expected to be reachable and online.
+Equipment: Company-issued laptop and VPN access are mandatory for WFH days.
+Security: Confidential data must not be printed at home. Use only company-approved cloud storage.
+Ergonomics: Employees are advised to maintain a safe and ergonomic home setup.
+
+# IT Acceptable Use Policy
+Email: Company email is for business use. Do not send confidential files to personal accounts.
+Passwords: Use unique passwords and rotate every 90 days. MFA is mandatory for all remote access.
+Software: Install only IT-approved software. Requests via Service Desk.
+Devices: Only company-managed devices may connect to internal systems. Jailbroken/rooted devices are prohibited.
+Data Transfer: Use the secure file gateway for large data transfers; external USBs are disabled by default.
+
+# Code of Conduct
+Anti-Harassment: Zero tolerance for harassment or discrimination. Report incidents to HR or the Ethics hotline.
+Conflicts of Interest: Disclose any potential conflicts to your manager and Compliance.
+Gifts & Entertainment: Gifts exceeding INR 5,000 require pre-approval from Compliance.
+Confidentiality: Do not disclose non-public information to external parties without authorization.
+Social Media: Employees must not represent company positions without Communications approval.
+
+# Travel & Expense Policy
+Bookings: Use the approved corporate travel portal for flights and hotels.
+Limits: Domestic hotel bookings capped at INR 8,000 per night (taxes extra).
+Meals: Reimbursable with itemized receipts; alcohol is not reimbursable.
+Taxis: Prefer app-based, receipt-required. Airport transfers should use economy options.
+International Travel: Requires Director approval; obtain insurance before travel.
+
+# Security & Privacy
+PII Handling: Store personal data only in approved systems. Do not export PII to spreadsheets unless authorized.
+Incident Reporting: Report suspected security incidents within 2 hours to Security Operations.
+Data Retention: Follow the Records Retention Schedule; delete data past retention unless litigation hold applies.
+Vendor Access: Third-party access requires NDA and least-privilege accounts with expiry dates.
+
+# Regional Variations (APAC)
+Public Holidays: Follow the APAC holiday calendar when stationed in those countries.
+Expense Currency: Expenses must be reported in local currency with exchange rate proof where required.
